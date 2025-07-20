@@ -57,9 +57,3 @@ This project showcases a **Sales Performance Dashboard** built using **Power BI*
 
 ---
 
-## 📝 Author
-
-**Santhoshi Priya Sunchu**
-
----
-
