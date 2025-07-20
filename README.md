@@ -10,7 +10,7 @@ This project showcases a **Sales Performance Dashboard** built using **Power BI*
 
 - `Sales_Project.pbix` – Power BI report file  
 - `Mobile Sales Data.xlsx` – Cleaned and structured sales dataset  
-- `Motorola_Sales_Dashboard.png` – Preview image of the dashboard
+- `Motorola_Sales_Dashboard.jpeg` – Preview image of the dashboard
 
 ---
 
@@ -54,7 +54,7 @@ This project showcases a **Sales Performance Dashboard** built using **Power BI*
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Motorola_Sales_Dashboard.png)
+![Dashboard Preview](Motorola_Sales_Dashboard.jpeg)
 
 ---
 
