@@ -22,7 +22,6 @@ This project showcases a **Sales Performance Dashboard** built using **Power BI*
 - **Sales by Brand and Model** – Apple, OnePlus, Samsung, etc.  
 - **Customer Ratings Funnel** – Feedback breakdown  
 - **Payment Methods Pie Chart** – UPI, Cash, Cards  
-- **Day-wise Sales Line Chart** – Weekday performance  
 
 ---
 
